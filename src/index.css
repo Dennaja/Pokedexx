@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;  
+
+.type-normal { background-color: #A8A77A; }
+.type-fire { background-color: #EE8130; }
+.type-water { background-color: #6390F0; }
+.type-electric { background-color: #F7D02C; }
+.type-grass { background-color: #7AC74C; }
+.type-ice { background-color: #96D9D6; }
+.type-fighting { background-color: #C22E28; }
+.type-poison { background-color: #A33EA1; }
+.type-ground { background-color: #E2BF65; }
+.type-flying { background-color: #A98FF3; }
+.type-psychic { background-color: #F95587; }
+.type-bug { background-color: #A6B91A; }
+.type-rock { background-color: #B6A136; }
+.type-ghost { background-color: #735797; }
+.type-dragon { background-color: #6F35FC; }
+.type-dark { background-color: #705746; }
+.type-steel { background-color: #B7B7CE; }
+.type-fairy { background-color: #D685AD; }
+
+/* Define your type-specific colors */
+.bg-normal { background-color: #A8A878; }
+.bg-fire { background-color: #F08030; }
+.bg-water { background-color: #6890F0; }
+.bg-electric { background-color: #F8D030; }
+.bg-grass { background-color: #78C850; }
+.bg-ice { background-color: #98D8D8; }
+.bg-fighting { background-color: #C03028; }
+.bg-poison { background-color: #A040A0; }
+.bg-ground { background-color: #E0C068; }
+.bg-flying { background-color: #A890F0; }
+.bg-psychic { background-color: #F85888; }
+.bg-bug { background-color: #A8B820; }
+.bg-rock { background-color: #B8A038; }
+.bg-ghost { background-color: #705898; }
+.bg-dragon { background-color: #7038F8; }
+.bg-dark { background-color: #705848; }
+.bg-steel { background-color: #B8B8D0; }
+.bg-fairy { background-color: #EE99AC; }
+/* Add more type colors as needed */
+
+.text-normal { color: #A8A878; }
+.text-fire { color: #F08030; }
+.text-water { color: #6890F0; }
+.text-electric { color: #F8D030; }
+.text-grass { color: #78C850; }
+.text-ice { color: #98D8D8; }
+.text-fighting { color: #C03028; }
+.text-poison { color: #A040A0; }
+.text-ground { color: #E0C068; }
+.text-flying { color: #A890F0; }
+.text-psychic { color: #F85888; }
+.text-bug { color: #A8B820; }
+.text-rock { color: #B8A038; }
+.text-ghost { color: #705898; }
+.text-dragon { color: #7038F8; }
+.text-dark { color: #705848; }
+.text-steel { color: #B8B8D0; }
+.text-fairy { color: #EE99AC; }
+/* Add more type text colors as needed */
